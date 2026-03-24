@@ -60,7 +60,7 @@ Siga as instruções abaixo para configurar e executar o projeto em seu ambiente
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/Dev-LDRC/links-management.git
+    git clone https://github.com/DevLDRC/links-management.git
     cd links-management
     ```
 
